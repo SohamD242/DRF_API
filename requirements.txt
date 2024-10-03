@@ -1,0 +1,12 @@
+httpie
+Django
+djangorestframework
+django-cors-headers
+psycopg2  # For PostgreSQL
+mysqlclient  # For MySQL
+djangorestframework-simplejwt  # For JWT authentication
+django-environ  # For environment variable management
+gunicorn  # For production deployment
+whitenoise  # To serve static files in production
+drf-yasg  # For API documentation (Swagger/OpenAPI)
+Pillow  # For image handling
